@@ -9,10 +9,10 @@
 ## Portfolio Highlights
  
 ### My Projects
-| Name                 | Description                            | Repo Link                     |
+| Name                                                          | Description                                                                                                                                                                                                        | Repo Link                                                                                                       |
 |---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
 |**Malayalam Sign Language Recognition and Translation System** | A signlanguage recognition system that translates malayalam sign gestures into letters                                                                                                                              |[github repo link](***)                                                                                         |
-| **ALAD Organ Donor And Recipient Network Website**            | Developed the backend of a website aimed to address the critical issue of organ shortages by providing a user-friendly platform that connects potential donors with those in need of life-saving organ transplants  | [ALAD Organ Donor And Recipient Network Website](https://github.com/Ashnaa22/ALAD_Organ_Donor_Receiver_network)
+| **ALAD Organ Donor And Recipient Network Website**            | Developed the backend of a website aimed to address the critical issue of organ shortages by providing a user-friendly platform that connects potential donors with those in need of life-saving organ transplants  | [ALAD_Organ_Donor_Receiver_network](https://github.com/Ashnaa22/ALAD_Organ_Donor_Receiver_network)                              |
 
 
 #### Leadership and Influence:
